@@ -4,17 +4,6 @@
 > https://devpatra07.github.io
 
 
-
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://devpatra07.github.io" target="_blank"><img src="examples/preview.gif">
-  </a>
-  </kbd>
-</p>
-
-:star: Star me on GitHub — it helps!
-
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
@@ -46,7 +35,6 @@ To view a live example, **[click here](https://devpatra07.github.io/)**
 - **Option 2**
     - 👯 Clone this repo to your local machine.
 
-
 #### Step 2
 
 - **Build your code** 🔨🔨🔨
@@ -56,4 +44,4 @@ To view a live example, **[click here](https://devpatra07.github.io/)**
 - 🔃 Create a new pull request.
 
 ## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+This project is licensed.
